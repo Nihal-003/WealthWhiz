@@ -1,6 +1,6 @@
 # WealthWhiz
 WealthWhiz is a machine learning tool developed to revolutionize personal finance  management by providing users with personalized budgeting plans, expense tracking,  and predictive insights.
-Features:
+#Features:
 -Personalized Budgeting Plans: Tailors budgets based on user-specific income and expenditure patterns.
 -Expense Tracking and Categorization: Automatically tracks and categorizes expenses to give users a clear picture of their spending.
 -Predictive Insights: Uses regression models to predict future expenses and savings opportunities.
